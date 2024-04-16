@@ -17,7 +17,7 @@
 [**点击官方网站注册**](https://go.51tz.cc/jfcloud)  
 最低套餐月付只需9.99元
 
-疾风云机场加速器是一家专注于ShadowsocksR翻墙节点和V2ray翻墙节点。由海外团队运营，使用SSR和V2ray协议，一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
+疾风云机场加速器是一家专注于ShadowsocksR翻墙节点和V2ray翻墙节点的机场服务商。由海外团队运营，使用SSR和V2ray协议，一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
 
 疾风云机场节点有：台湾、新加坡、日本、美国、香港、马来西亚、韩国、法国
 
